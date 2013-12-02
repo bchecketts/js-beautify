@@ -1,4 +1,9 @@
 {
-    "require": {
-    }
+    "name"          : "bchecketts/js-beautify",
+    "type"          : "library",
+    "description"   : "fork of einars/js-beautify for use with composer",
+    "keywords"      : ["javascript", "beautify"],
+    "homepage"      : "https://github.com/bchecketts/js-beautify",
+    "license"       : "MIT",
+    "require"       : { }
 }
